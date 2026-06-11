@@ -30,6 +30,4 @@ principles including inheritance, enums, and interfaces.
 java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -jar FinalSubmission.jar
 Replace `/path/to/javafx-sdk/lib` with the actual path to your JavaFX SDK.
 
-### Option 3: Load a CSV file on startup
-To pre-load a playlist from a CSV file when launching:
 
