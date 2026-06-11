@@ -1,4 +1,4 @@
-# MSpotify-Playlist-Manager
+# Spotify-Playlist-Manager
 
 
 ## Description
